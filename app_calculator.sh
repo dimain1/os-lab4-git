@@ -8,4 +8,4 @@ if [ -z "$num1" ] || [ -z "$num2" ]; then
     exit 1
 fi
 
-echo "Сумма: $((num1 + num2))
+echo "Сумма: $((num1 + num2))"
