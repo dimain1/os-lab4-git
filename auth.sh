@@ -1,2 +1,3 @@
-#!/bin/bash $ echo echo "Авторизация через OAuth/GitHub"
+#!/bin/bash
+echo "Авторизация через OAuth/GitHub"
 
